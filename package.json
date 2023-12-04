@@ -1,18 +1,18 @@
 {
   "name": "go-short",
   "version": "1.0.0",
-  "description": "A Url shortener",
+  "description": "It's an url shortner website",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/imsay3m/go-short.git"
   },
   "keywords": [
-    "Go",
-    "Short"
+    "go",
+    "short"
   ],
   "author": "sayem",
   "license": "UNLICENSED",
