@@ -1,6 +1,6 @@
 {
   "name": "go-short",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "It's an url shortner website",
   "main": "main.js",
   "scripts": {
