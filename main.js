@@ -66,7 +66,7 @@ function copyurl(id, attr) {
 $(function () {
   $('[data-toggle="popover"]').popover()
 })
-console.log("https://github.com/imsay3m/")
+console.log("https://github.com/imsay3m/go-short/")
 let notice = "Notice: The generated short links will automatically expire after 24 hours."
 if (window.location.host == "go.imsay3m.eu.org/") {
   document.getElementById("notice").innerHTML = notice
