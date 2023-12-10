@@ -68,6 +68,6 @@ $(function () {
 })
 console.log("https://github.com/imsay3m/")
 let notice = "Notice: The generated short links will automatically expire after 24 hours."
-if (window.location.host == "https://go.closedrive.eu.org/") {
+if (window.location.host == "go.imsay3m.eu.org/") {
   document.getElementById("notice").innerHTML = notice
 }
